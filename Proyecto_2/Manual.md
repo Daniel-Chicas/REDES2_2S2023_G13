@@ -113,35 +113,35 @@
 ---
 
 <p align="center">
-  <a href="#"><img src="./img/TOPOLOGIA.JPEG"/></a>
+  <a href="#"><img src="./img/TOPOLOGIA.jpeg"/></a>
 </p>
 
 ---
 --- 
 
 <p align="center">
-  <a href="#"><img src="./img/AVPC.JPEG"/></a>
+  <a href="#"><img src="./img/AVPC.jpeg"/></a>
 </p>
 
 ---
 ---
 
 <p align="center">
-  <a href="#"><img src="./img/LACP.JPEG"/></a>
+  <a href="#"><img src="./img/LACP.jpeg"/></a>
 </p>
 
 ---
 ---
 # VLAN
 <p align="center">
-  <a href="#"><img src="./img/VLAN.JPEG"/></a>
+  <a href="#"><img src="./img/VLAN.jpeg"/></a>
 </p>
 
 ---
 ---
 # ASIGNACIÓN IP A VLAN
 <p align="center">
-  <a href="#"><img src="./img/IPVLAN.JPEG"/></a>
+  <a href="#"><img src="./img/IPVLAN.jpeg"/></a>
 </p>
 
 ---
@@ -149,7 +149,7 @@
 
 # VTP
 <p align="center">
-  <a href="#"><img src="./img/VTP.JPEG"/></a>
+  <a href="#"><img src="./img/VTP.jpeg"/></a>
 </p>
 
 ---
